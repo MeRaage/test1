@@ -1,0 +1,9 @@
+@import "wrapper.css";
+@import "header.css";
+@import "reset.css";
+@import "section-1.css";
+@import "section-2.css";
+@import "section-3.css";
+@import "section-4.css";
+@import "footer.css";
+@import "./components/btn.css";

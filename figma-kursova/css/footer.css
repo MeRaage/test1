@@ -1,0 +1,44 @@
+.footer {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
+.logo-footer {
+    display: flex;
+    align-items: center;
+}
+
+.logo-footer img {
+    width: 249px;
+    height: 50px;
+}
+
+
+
+.navbar-footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    width:100%;
+}
+ul.navbar-footer  {
+    margin: 0!important;
+}
+
+.navbar-footer .item {
+    list-style: none;
+    width:120px;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-footer .item a {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    text-decoration:none;
+}

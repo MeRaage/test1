@@ -1,0 +1,51 @@
+.section-3 {
+    background-color: black;
+    padding: 50px 0px;
+}
+
+.section-3 .wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-3 .H2 {
+    font-size: 48px;
+    color: white;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+
+.section-3 .list-wrap {
+    margin-top: 25px;
+    background-color: white;
+}
+.section-3 .title  {
+    font-size: 36px;
+    font-family: "Caveat";
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.section-3 .list {
+
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.section-3 .items {
+    display: flex;
+    flex-direction: column;
+    padding: 15px 0px 20px 0px;
+}
+
+.section-3 .item {
+    color: black;
+    font-size: 24px;
+    font-family: "Open Sans";
+    padding: 15px;
+    font-weight: bold;
+}

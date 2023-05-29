@@ -1,0 +1,43 @@
+.section-1 {
+    background-color: black;
+    height: 924px;
+}
+
+.section-1 .col-main {
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+}
+
+.section-1 .col-6 {
+    width: 50%;
+}
+.section-1 .col-4 {
+    width: 50%;
+}
+
+.section-1 .H1 {
+    font-size: 64px;    
+    color:white;
+    font-family: "Caveat";
+    font-weight: bold;
+}
+.section-1 .H1 .focus {
+    color: #FFFEAD;
+}
+
+.section-1 .subtitle {
+    font-size: 18px;
+    color: white;
+    font-family:  "Open Sans";
+    margin-top:30px;
+}
+.section-1 .wrap-img {
+    display: flex;
+    justify-content: center;
+}
+
+.section-1 .img {
+    width:410px;
+    height: 576px;;
+}
